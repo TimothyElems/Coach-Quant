@@ -1,2 +1,4 @@
 # Coach-Quant
-Statistics Applied
+_Statistics Applied_
+
+Golang and possibly Python.
